@@ -18,3 +18,6 @@
     - *processAllTickets()* Once the entry period is over, this function clears the queue:
         - FIFO Logic: It uses .shift() to remove the first (oldest) element from the array. 
         - Asynchronous Processing: It "serves" each customer one by one with a 2-second delay between each.
+
+### Flowchart
+![alt text](https://github.com/amdemw206-coder/Ticketing-System-Simulation-AD311/blob/main/screenshots/unnamed.jpg)
