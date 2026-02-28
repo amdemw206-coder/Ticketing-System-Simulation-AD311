@@ -1,0 +1,9 @@
+//Test Cases: 
+// 5, Expected Output: Normal 
+// 3, Expected Output: Normal 
+// 0, Expected Output: Straight to dequeue 
+
+//Edge Cases: 
+// "test", Expected Output: Straight to dequeue
+// -2, Expected Output: Straight to dequeue 
+// 1.5, Expected Output: Try to Process 1 Customer.
